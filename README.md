@@ -53,6 +53,3 @@ The following code perform this action both for `train_labels` and `test_labels`
 y_train = tf.keras.utils.to_categorical(y_train)
 y_test = tf.keras.utils.to_categorical(y_test)
 ```
-
-
-
